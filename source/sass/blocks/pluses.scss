@@ -216,14 +216,12 @@
   }
 
   .pluses__item {
-    //width: 255px;
     width: 50%;
     margin-bottom: 57px;
 
     &--eco {
       order: 0;
       padding-right: 120px;
-      //margin-right: 95px;
       margin-right: 0;
     }
 
@@ -231,14 +229,12 @@
       order: 2;
       margin-right: 0;
       padding-right: 100px;
-      //margin-right: 96px;
     }
 
     &--likes {
       order: 4;
       padding-right: 110px;
       margin-right: 0;
-      //margin-right: 95px;
     }
 
     &--make {
@@ -248,7 +244,6 @@
     }
 
     &--production {
-      //width: 300px;
       order: 3;
       margin-right: 0;
       padding-left: 2px;
